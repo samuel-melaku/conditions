@@ -1,0 +1,8 @@
+Logic Operators - treats operands as being true or false, and evaluates to true or
+false, which include and, or, and not.
+
+Logic Table -  mathematical table used in logic—specifically in connection with Boolean algebra, boolean functions, and propositional calculus
+
+Precedence Rules - the order in which operators are evaluated in an expression
+
+Decision Expressions - when you will have to select an option based on the given conditions
